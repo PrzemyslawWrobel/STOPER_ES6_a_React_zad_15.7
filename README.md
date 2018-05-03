@@ -1,0 +1,1 @@
+# STOPER_ES6_a_React_zad_15.7
